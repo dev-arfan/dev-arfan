@@ -7,7 +7,7 @@
 - Terraform 🌍
 - GitHub Actions ⚙️
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6YTluZ3FjYzV4NDBiZmhhY3Y5cTRmdzZtanFxeXByN3BwZnB5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="200" style="margin-right: 15px;"/><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyOHF6ZzdpcG1qNG9jcnR5NnJpdnIyZjdvZWx4c2p6YjVsemt1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6YTluZ3FjYzV4NDBiZmhhY3Y5cTRmdzZtanFxeXByN3BwZnB5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="200" style="margin-right: 15px;"/> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyOHF6ZzdpcG1qNG9jcnR5NnJpdnIyZjdvZWx4c2p6YjVsemt1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
 
  
 <!--

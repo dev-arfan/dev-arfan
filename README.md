@@ -8,10 +8,7 @@
 - GitHub Actions ⚙️
 
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6YTluZ3FjYzV4NDBiZmhhY3Y5cTRmdzZtanFxeXByN3BwZnB5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Xw8jY3zbFRtFd6eK8/giphy.gif)
-![Alt Text](https://github.com/dev-arfan/dev-arfan/Coding-The-Matrix-GIF.gif)  
-![Alt Text](https://github.com/dev-arfan/dev-arfan/Code-Hacking-GIF-by-Pizza-Ninjas.gif)  
-![Alt Text](https://github.com/dev-arfan/dev-arfan/Code-Coding-GIF-by-EscuelaDevRock.gif) 
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6YTluZ3FjYzV4NDBiZmhhY3Y5cTRmdzZtanFxeXByN3BwZnB5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="200"/>
 
  
 <!--

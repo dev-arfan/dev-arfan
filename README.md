@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I am Arfan 👋
 
+🌱 I’m currently learning DevOps tools. I'm passionate about automation, cloud, and containerization 🚀
+
+## 🛠️ Tech Stack
+- Docker 🐳
+- Kubernetes ☸️
+- Terraform 🌍
+- GitHub Actions ⚙️
+
+ 
 <!--
 **dev-arfan/dev-arfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

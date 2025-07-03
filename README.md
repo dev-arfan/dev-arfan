@@ -7,7 +7,10 @@
 - Terraform 🌍
 - GitHub Actions ⚙️
 
-![Alt Text](https://github.com/dev-arfan/dev-arfan/infinite-GIF.gif) ![Alt Text](https://github.com/dev-arfan/dev-arfan/Coding-The-Matrix-GIF.gif)  ![Alt Text](https://github.com/dev-arfan/dev-arfan/Code-Hacking-GIF-by-Pizza-Ninjas.gif)  ![Alt Text](https://github.com/dev-arfan/dev-arfan/Code-Coding-GIF-by-EscuelaDevRock.gif) 
+![Alt Text](https://github.com/dev-arfan/dev-arfan/infinite-GIF.gif)
+![Alt Text](https://github.com/dev-arfan/dev-arfan/Coding-The-Matrix-GIF.gif)  
+![Alt Text](https://github.com/dev-arfan/dev-arfan/Code-Hacking-GIF-by-Pizza-Ninjas.gif)  
+![Alt Text](https://github.com/dev-arfan/dev-arfan/Code-Coding-GIF-by-EscuelaDevRock.gif) 
 
 
  

@@ -14,7 +14,7 @@
 
  ## Projects on Gitlab
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDV3NG40MW9neXdjeDUxb3BuejJkYzlqcWx0OTl6N3hldHM5dWx5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jtRP4S3wdK2cGPoQDZ/giphy.gif" width="200"/>
- 🔧 [CI/CD with Terraform & GitLab] (https://gitlab.com/dev-arfan-group/terraformcicd): Infrastructure automation using GitLab CI/CD, Terraform, and AWS.
+ 🔧 CI/CD with Terraform & GitLab (https://gitlab.com/dev-arfan-group/terraformcicd): Infrastructure automation using GitLab CI/CD, Terraform, and AWS.
 <!--
 **dev-arfan/dev-arfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
